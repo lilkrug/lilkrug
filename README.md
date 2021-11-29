@@ -1,4 +1,4 @@
-![Header](https://github.com/lilkrug/lilkrug/blob/main/assets/header.png)
+![Header](https://github.com/lilkrug/lilkrug/blob/main/assets/AlexeiKruglik.png)
 
 ## I am a student. I study in BSTU on the second kurs at the Faculty of Information Technology. My specialty is information technology software.
 
