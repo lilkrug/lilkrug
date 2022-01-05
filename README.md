@@ -1,5 +1,12 @@
 ![Header](https://github.com/lilkrug/lilkrug/blob/main/assets/KAV-2021.png)
 
+## This is a course project that is dedicated to the creation of my own compiler KAV-2021.
+* Development language: C++
+* Final-translation language: Assembler
+
+### This project implements lexical, syntactic and semantic code analysis, as well as the generation of assembly language code.
+
+### Link to the project: https://github.com/lilkrug/KAV-2021
 ![Header](https://github.com/lilkrug/lilkrug/blob/main/assets/AlexeiKruglik.png)
 
 ## I am a student. I study in BSTU on the second kurs at the Faculty of Information Technology. My specialty is information technology software.
