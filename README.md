@@ -1,4 +1,4 @@
-![Header](https://github.com/lilkrug/lilkrug/blob/main/KAV-2021.png)
+![Header](https://github.com/lilkrug/lilkrug/blob/main/assets/KAV-2021.png)
 
 ![Header](https://github.com/lilkrug/lilkrug/blob/main/assets/AlexeiKruglik.png)
 
